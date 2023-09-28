@@ -20,9 +20,9 @@ pip3 install mechanize
 
 ## BruteForce Gmail Attack
 ```bash
-python3 Brute_Force.py -g Account@gmail.com -l File_list
+python3 Brute_Force.py -g chrisjasonmills111@gmail.com -l File_list
 
-python3 Brute_Force.py -g Account@gmail.com -p Password_Single
+python3 Brute_Force.py -g chrisjasonmills111@gmail.com -p Password_Single
 ```
 
 
